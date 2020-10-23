@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\bin\Debug\netcoreapp3.1\Overriding1.exe
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\bin\Debug\netcoreapp3.1\Overriding1.deps.json
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\bin\Debug\netcoreapp3.1\Overriding1.runtimeconfig.json
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\bin\Debug\netcoreapp3.1\Overriding1.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\bin\Debug\netcoreapp3.1\Overriding1.dll
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\bin\Debug\netcoreapp3.1\Overriding1.pdb
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\obj\Debug\netcoreapp3.1\Overriding1.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\obj\Debug\netcoreapp3.1\Overriding1.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\obj\Debug\netcoreapp3.1\Overriding1.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\obj\Debug\netcoreapp3.1\Overriding1.dll
+C:\codebitacademyfolder\C#\Method Ass\Overriding1\obj\Debug\netcoreapp3.1\Overriding1.pdb
