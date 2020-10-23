@@ -1,18 +1,50 @@
-﻿class base_class
-{
-    public void gfg();
-}
+﻿// C# program to demonstrate the method overriding  
+// without using 'virtual' and 'override' modifiers 
+using System;
 
-class derived_class : base_class
-{
-    public void gfg();
-}
+// base class name 'baseClass' 
+class baseClass
 
-class Main_Method
 {
-    static void Main()
+    public void show()
     {
-        derived_class d = new derived_class();
-        d.gfg();
+        Console.WriteLine("Base class");
+    }
+}
+
+// derived class name 'derived' 
+// 'baseClass' inherit here 
+class derived : baseClass
+{
+
+    // overriding 
+    new public void show()
+    {
+        Console.WriteLine("Derived class");
+    }
+}
+
+class GFG
+{
+
+    // Main Method 
+    public static void Main()
+    {
+
+        // 'obj' is the object of 
+        // class 'baseClass' 
+        baseClass obj = new baseClass();
+
+
+        // invokes the method 'show()' 
+        // of class 'baseClass' 
+        obj.show();
+
+        obj = new derived();
+
+        // it also invokes the method  
+        // 'show()' of class 'baseClass' 
+        obj.show();
+
     }
 }
